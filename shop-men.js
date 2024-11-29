@@ -37,6 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h5 class="add-to-cart-text" data-product-id="${product.id}">Add to Cart</h5>
                 <a href="cart.html"><i class="fa-solid fa-cart-shopping fa-xl cart"></i></a>
             </div>            `;
+
+            productEl.setAttribute('data-aos', 'fade-up');
             productContainer.appendChild(productEl);
         });
     }

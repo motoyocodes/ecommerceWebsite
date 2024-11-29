@@ -107,7 +107,7 @@ body, html {
 .cart-quantity{
     position: absolute;
     top: -19px;
-    right: 4px;
+    right: 10px;
     font-size: 23px;
     color: #f35b34;
 }
@@ -121,7 +121,7 @@ body, html {
 }
 
 #hero{
-    background-image:url(IMAGES/heroImage.jpg);
+    background-image:url(IMAGES/heroImage.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -485,27 +485,27 @@ body, html {
 
 
 #banner .banner1{
-    background-image: url(IMAGES/sectionPictures/image1.jpg);
+    background-image: url(IMAGES/sectionPictures/image1.webp);
     background-position: center;
     background-size: cover;
 }
 #banner .banner2{
-    background-image: url(IMAGES/sectionPictures/image2.jpg);
+    background-image: url(IMAGES/sectionPictures/image2.webp);
     background-position: center;
     background-size: cover;
 }
 #banner .banner3{
-    background-image: url(IMAGES/sectionPictures/image5.jpg);
+    background-image: url(IMAGES/sectionPictures/image5.webp);
     background-position: center;
     background-size: cover;
 }
 #banner .banner4{
-    background-image: url(IMAGES/sectionPictures/image8.jpg);
+    background-image: url(IMAGES/sectionPictures/image8.webp);
     background-position: center;
     background-size: cover;
 }
 #banner .banner5{
-    background-image: url(IMAGES/sectionPictures/image7.jpg);
+    background-image: url(IMAGES/sectionPictures/image7.webp);
     background-position: center;
     background-size: cover;
 }

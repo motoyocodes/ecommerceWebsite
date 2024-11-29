@@ -43,6 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <a href="cart.html"><i class="fa-solid fa-cart-shopping fa-xl cart"></i></a>
             </div>
             `;
+
+            productEl.setAttribute('data-aos', 'fade-up');
             productContainer.appendChild(productEl);
         });
     }
