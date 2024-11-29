@@ -327,6 +327,7 @@ export function updateCartQuantity() {
 }
 
 
+
 /*function clearCart() {
     localStorage.removeItem("cart");
 
@@ -343,4 +344,5 @@ export function updateCartQuantity() {
 // Call clearCart() when you need to clear the cart
 
 clearCart(); */
+
 
